@@ -1,0 +1,22 @@
+TODO:
+- Implement newton raphson method
+
+Ideas for expanding this power simulation tool
+- Make line resistance based on temperature
+- Implement unit checking (with pint?)
+
+- visualization tools
+- do slack bus calculation behind the scene/optimally pick slack bus
+- Look into shunt admittance for buses?
+- implement transformers
+
+Topics/questions to dig more into:
+Q: Why only model one phase?
+A: We model an equivalent per phase circuit
+
+Useful resources:
+"Course notes for EE394V Restructured Electricity Markets: Locational Marginal Pricing"
+https://users.ece.utexas.edu/~baldick/classes/394V/Power.pdf
+
+"Optimization in Modern Power Systems"
+https://arxiv.org/pdf/1811.00943
