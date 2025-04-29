@@ -1,9 +1,11 @@
 TODO:
 - Implement newton raphson method
+- build out more detailed jacobian with H, N, M, L blocks (i.e. don't assume voltage magnitude of 1)
 
 Ideas for expanding this power simulation tool
 - Make line resistance based on temperature
 - Implement unit checking (with pint?)
+- check that there are no loops
 
 - visualization tools
 - do slack bus calculation behind the scene/optimally pick slack bus
